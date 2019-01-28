@@ -1,5 +1,3 @@
-package org.sopt;
-
 import java.util.*;
 
 public class Main {
